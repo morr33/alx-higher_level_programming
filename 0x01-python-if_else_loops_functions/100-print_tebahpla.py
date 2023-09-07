@@ -5,4 +5,3 @@ for i in range(122, 96, -1):
     else:
         character = chr(i - 32)
     print("{}".format(character), end="")
-

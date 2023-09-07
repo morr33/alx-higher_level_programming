@@ -5,4 +5,3 @@ def remove_char_at(str, n):
         del tmp[n]
     new_str = "".join(tmp)
     return new_str
-
